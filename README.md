@@ -4,7 +4,7 @@
 
 **Description:** In this study, a web-based needs assessment survey was distributed targeting management professionals at food (produce, dairy, poultry, and beef/pork) processing facilities and produce farm operations in the US. The objectives of this study were to determine what the food industry needs to be able to control COVID-19 impacts in the work environment and what mitigation strategies are being implemented. 
 
-**Data set:** The data set “NeedsAssessmentData.xlsx” contains all the responses collected from participants to the needs assessment survey. It includes two tabs: “Data” with participants’ responses and “Metadata” with descriptions for questions and Likert items. For analysis in R, an additional data set named "NeedsAssessmentData.csv" was included containing the same data included in the "Data" tab of the "NeedsAsssesmentData.xlsx" file.
+**Data set:** The data set “NeedsAssessmentData.xlsx” contains all the responses collected from participants to the needs assessment survey. It includes two tabs: “Data” with participants’ responses and “Metadata” with descriptions for questions and Likert items. A .csv copy of the "NeedsAssessmentData.xlsx" was included for analysis in R ("NeedsAsssesmentData.csv").
 
 **R code:** The file “NeedsAssess.R” contains the code used in R v4.0.3 to perform the statistical analysis described in the “Materials and Method” section of the manuscript.
 
